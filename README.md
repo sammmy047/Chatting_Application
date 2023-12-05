@@ -9,3 +9,9 @@ in the development of this project and all the sources will be tested and build 
 JDK later JVM. The server will run continuously receiving requests from connecting
 clients and grant access to the users using Java Socket Programming Primitives. 
 
+Client Side Outputs :
+
+From the below figure we can observe the client area terminal where the middle portion is used
+to display the messages between the client and server. The box at the bottom is used to
+represent the input text area where the user can enter the test. we can observe that the client has entered the data and this data is
+displayed in the text area. We can also see the server’s response to the client’s message in the client area.
