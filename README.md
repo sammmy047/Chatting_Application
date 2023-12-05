@@ -19,4 +19,9 @@ displayed in the text area. We can also see the server’s response to the clien
 
 ![image](https://github.com/sammmy047/Chatting_Application/assets/76446088/26900de6-37c0-44dc-8f9c-851830d6e402)
 
+Server Side Outputs: 
+
+From the given figure we can observe the server side of the output where the client
+has sent a message to the server and the reply given by the server to the client. 
+
 
