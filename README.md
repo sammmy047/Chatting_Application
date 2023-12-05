@@ -15,3 +15,8 @@ From the below figure we can observe the client area terminal where the middle p
 to display the messages between the client and server. The box at the bottom is used to
 represent the input text area where the user can enter the test. we can observe that the client has entered the data and this data is
 displayed in the text area. We can also see the server’s response to the client’s message in the client area.
+
+
+![image](https://github.com/sammmy047/Chatting_Application/assets/76446088/26900de6-37c0-44dc-8f9c-851830d6e402)
+
+
