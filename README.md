@@ -24,4 +24,4 @@ Server Side Outputs:
 From the given figure we can observe the server side of the output where the client
 has sent a message to the server and the reply given by the server to the client. 
 
-
+![image](https://github.com/sammmy047/Chatting_Application/assets/76446088/b5a3a105-78f6-4358-8b87-0d85371d9b7b)
